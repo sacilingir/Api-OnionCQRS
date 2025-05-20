@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{39EC8082-609E-4012-8FB8-2B842A759D29}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Insrastructure", "Insrastructure", "{44F05C1B-6BFA-43F1-9076-12A04A8757EF}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{44F05C1B-6BFA-43F1-9076-12A04A8757EF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{BCA4FAD5-690B-4855-876F-2623A3E7B819}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Domain", "Core\Api.Doma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Application", "Core\Api.Application\Api.Application.csproj", "{53DA7A94-4872-430C-B365-52C335D64805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Insrastructure", "Insrastructure\Api.Insrastructure\Api.Insrastructure.csproj", "{A5A5C6C2-A4B9-4C00-8A82-BFFF454AC224}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Infrastructure", "Insrastructure\Api.Insrastructure\Api.Infrastructure.csproj", "{A5A5C6C2-A4B9-4C00-8A82-BFFF454AC224}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Persistence", "Insrastructure\Api.Persistance\Api.Persistence.csproj", "{ACC666B6-22A4-4706-89D3-AA329B544F64}"
 EndProject
